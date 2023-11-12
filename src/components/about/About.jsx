@@ -18,9 +18,13 @@ const About = () => {
 
 					<p className='about__description'>
 						As a Node.js software engineer, I possess a strong background in developing scalable applications. 
+						
 						I am proficient in a range of modern technologies, including Node.js, Express.js, TypeScript, React, MongoDB, PostgreSQL, MySQL, Heroku, payment integration, REST API development, Firebase, JIRA, Docker, and more. 
-						In addition to my technical expertise, I am highly proactive in learning new technologies, excel in technical documentation, and possess exceptional communication and collaboration skills. 
-						I am adept at problem-solving, experienced in Agile methodologies
+						In addition to my technical expertise.
+						
+						 I am highly proactive in learning new technologies, excel in technical documentation, and possess exceptional communication and collaboration skills. 
+						I am adept at problem-solving, experienced in Agile methodologies.
+
 						Let's work together to create a dynamic and engaging online
 						experience for your audience!
 					</p>

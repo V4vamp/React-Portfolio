@@ -1,12 +1,11 @@
 import rpc from '../../assets/rock-paper-sci.png'
-import Work2 from '../../assets/work2.png'
+import torre from '../../assets/torre.png'
 import agecal from '../../assets/agecalc.png'
 import mall from '../../assets/mall.png'
 import mindconnect from '../../assets/mindconnect.png'
-import Work6 from '../../assets/work6.png'
+import portf from '../../assets/portf.png'
 import pennywise from '../../assets/pennywise.png'
 import Work8 from '../../assets/work8.png'
-import Work9 from '../../assets/work9.png'
 
 export const projectsData = [
 	{
@@ -25,17 +24,17 @@ export const projectsData = [
 	},
 	{
 		id: 2,
-		image: Work2,
-		title: "Star-Wars Characters API",
+		image: torre,
+		title: "Torre Search App",
 		category: "Front-End",
 		description: (
 			<div>
-				<i class='bx bxl-html5'></i>
+				<i class='bx bxl-react'></i>
 				<i class='bx bxl-css3'></i>
 				<i class='bx bxl-javascript'></i>
 			</div>
 		),
-		link: "https://ornate-pegasus-ee997f.netlify.app/",
+		link: "https://search-app-brown.vercel.app/",
 	},
 	{
 		id: 3,
@@ -83,8 +82,8 @@ export const projectsData = [
 	},
 	{
 		id: 6,
-		image: Work6,
-		title: "Portfolio V0.2",
+		image: portf,
+		title: "Simple Portfolio",
 		category: "Front-End",
 		description: (
 			<div>
@@ -108,7 +107,7 @@ export const projectsData = [
 				<i class='bx bxl-typescript'></i>
 			</div>
 		),
-		link: "https://olokor-library-app.onrender.com",
+		link: "",
 	},
 	{
 		id: 8,
@@ -120,21 +119,9 @@ export const projectsData = [
 				<i class='bx bxl-nodejs'></i>
 			</div>
 		),
-		link: "https://todo-app-express-e34j.onrender.com",
+		link: "",
 	},
-	{
-		id: 9,
-		image: Work9,
-		title: "Instanta Status Page",
-		category: "Front-End",
-		description: (
-			<div>
-				<i class='uil uil-react'></i>
-				<i class='bx bxl-typescript'></i>
-			</div>
-		),
-		link: "https://instanta-app.onrender.com",
-	},
+	
 ];
 
 export const projectsNav = [

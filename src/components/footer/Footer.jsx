@@ -62,7 +62,7 @@ const Footer = () => {
 				</div>
 
 				<span className='footer__copy'>
-					&#169; Muhammad M. Yusuf. All rigths reserved
+					&#169; Muhammad Mukhtar Yusuf. All rigths reserved
 				</span>
 			</div>
 		</footer>
